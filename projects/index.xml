@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Christopher Negrich</title>
+    <link>http://cnegrich.github.io/projects/index.xml</link>
+    <description>Recent content in Projects on Christopher Negrich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 May 2018 16:28:45 -0700</lastBuildDate>
+    <atom:link href="http://cnegrich.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ConstrictPy</title>
+      <link>http://cnegrich.github.io/projects/ConstrictPy/</link>
+      <pubDate>Fri, 25 May 2018 16:28:45 -0700</pubDate>
+      
+      <guid>http://cnegrich.github.io/projects/ConstrictPy/</guid>
+      <description>
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;p&gt;ConstrictPy is a python tool that implements the ConstrictR package. ConstrictPy handles all the input and output, provides a UI, and data visualization that ConstrictR lacks. ConstrictPy is designed to be extremely user friendly and requires minimal technical skills to use effectively. &lt;br /&gt;
+&lt;br /&gt;
+Currently in development, full release of ConstrictPy is planned for August 2018.&lt;/p&gt;
+
+&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ahoetker/ConstrictPy&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ConstrictR</title>
+      <link>http://cnegrich.github.io/projects/ConstrictR/</link>
+      <pubDate>Fri, 25 May 2018 16:28:39 -0700</pubDate>
+      
+      <guid>http://cnegrich.github.io/projects/ConstrictR/</guid>
+      <description>
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;p&gt;ConstrictR is an R package inspired by a paper by Lionel Guidi designed for microbiome analysis. However, since it is just a package of useful bioinformatical analysis functions, it can be applied to a wide variety of data. The philosophy behind the project is to make an R package that is as user friendly as possible. We want a use of any experience level to have access to more complicated mathematical analysis techniques. &lt;br /&gt;
+&lt;br /&gt;
+ConstrictR is currently a work in progress with plans on the full version being available in August 2018.&lt;/p&gt;
+
+&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cnegrich/ConstrictR&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
