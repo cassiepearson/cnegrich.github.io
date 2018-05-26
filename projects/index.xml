@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Christopher Negrich</title>
-    <link>http://cnegrich.github.io/projects/index.xml</link>
+    <link>/projects/index.xml</link>
     <description>Recent content in Projects on Christopher Negrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 16:28:45 -0700</lastBuildDate>
-    <atom:link href="http://cnegrich.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ConstrictPy</title>
-      <link>http://cnegrich.github.io/projects/ConstrictPy/</link>
+      <link>/projects/ConstrictPy/</link>
       <pubDate>Fri, 25 May 2018 16:28:45 -0700</pubDate>
       
-      <guid>http://cnegrich.github.io/projects/ConstrictPy/</guid>
+      <guid>/projects/ConstrictPy/</guid>
       <description>
 
 &lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
@@ -33,10 +33,10 @@ Currently in development, full release of ConstrictPy is planned for August 2018
     
     <item>
       <title>ConstrictR</title>
-      <link>http://cnegrich.github.io/projects/ConstrictR/</link>
+      <link>/projects/ConstrictR/</link>
       <pubDate>Fri, 25 May 2018 16:28:39 -0700</pubDate>
       
-      <guid>http://cnegrich.github.io/projects/ConstrictR/</guid>
+      <guid>/projects/ConstrictR/</guid>
       <description>
 
 &lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;

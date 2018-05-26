@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Christopher Negrich</title>
-    <link>http://cnegrich.github.io/posts/index.xml</link>
+    <link>/posts/index.xml</link>
     <description>Recent content in Posts on Christopher Negrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://cnegrich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Background</title>
-      <link>http://cnegrich.github.io/posts/Introduction/</link>
+      <link>/posts/Introduction/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://cnegrich.github.io/posts/Introduction/</guid>
+      <guid>/posts/Introduction/</guid>
       <description>
 
 &lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;
