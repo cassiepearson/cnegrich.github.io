@@ -2,61 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Negrich</title>
-    <link>/</link>
+    <link>/index.xml</link>
     <description>Recent content on Christopher Negrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jun 2018 16:28:45 -0700</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Creating this site</title>
-      <link>/posts/hugo/</link>
-      <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
-      
-      <guid>/posts/hugo/</guid>
-      <description> Introduction Hugo Domains Hosting Automating Commits </description>
-    </item>
-    
-    <item>
-      <title>Sending secure emails (to me and others)</title>
-      <link>/posts/emails/</link>
-      <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
-      
-      <guid>/posts/emails/</guid>
-      <description>Why? Sending secure emails is important if any sensitive information needs to be sent. This could include a vulnerability disclosure, anything with personally identifiable information (PII), or any other information that you consider sensitive.
-How? I will explain how to send a secure email to me specifically below. But many other people have written similar tutorials, here is a link to a Tech Republic article on it. We will be using gpg (Gnome Privacy Guard) for this tutorial.</description>
-    </item>
+    <lastBuildDate>Fri, 25 May 2018 16:28:45 -0700</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ConstrictPy</title>
-      <link>/projects/constrictpy/</link>
+      <link>/projects/ConstrictPy/</link>
       <pubDate>Fri, 25 May 2018 16:28:45 -0700</pubDate>
       
-      <guid>/projects/constrictpy/</guid>
-      <description> Description ConstrictPy is a python tool that implements the ConstrictR package. ConstrictPy handles all the input and output, provides a UI, and data visualization that ConstrictR lacks. ConstrictPy is designed to be extremely user friendly and requires minimal technical skills to use effectively. Currently in development, full release of ConstrictPy is planned for August 2018. See below for the source code and documentation page.
-Links  Github Documentation  </description>
-    </item>
-    
-    <item>
-      <title>Github Pages Site (This Page)</title>
-      <link>/projects/pages/</link>
-      <pubDate>Fri, 25 May 2018 16:28:45 -0700</pubDate>
-      
-      <guid>/projects/pages/</guid>
-      <description>Description This is my personal website used to host a some small posts and personal coding projects.
-I consistently update this site with new content, both posts and projects. Below, I have linked to the source code and hosting respositories on github and have linked to my post explaining how I created this site. Look closely into the github repository and you may even get a glimpse of future posts and projects.</description>
+      <guid>/projects/ConstrictPy/</guid>
+      <description>
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;p&gt;ConstrictPy is a python tool that implements the ConstrictR package. ConstrictPy handles all the input and output, provides a UI, and data visualization that ConstrictR lacks. ConstrictPy is designed to be extremely user friendly and requires minimal technical skills to use effectively. &lt;br /&gt;
+&lt;br /&gt;
+Currently in development, full release of ConstrictPy is planned for August 2018.&lt;/p&gt;
+
+&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ahoetker/ConstrictPy&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>ConstrictR</title>
-      <link>/projects/constrictr/</link>
+      <link>/projects/ConstrictR/</link>
       <pubDate>Fri, 25 May 2018 16:28:39 -0700</pubDate>
       
-      <guid>/projects/constrictr/</guid>
-      <description>Description ConstrictR is an R package inspired by a paper by Lionel Guidi designed for microbiome analysis. However, since it is just a package of useful bioinformatical analysis functions, it can be applied to a wide variety of data. The philosophy behind the project is to make an R package that is as user friendly as possible. We want a use of any experience level to have access to more complicated mathematical analysis techniques.</description>
+      <guid>/projects/ConstrictR/</guid>
+      <description>
+
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+
+&lt;p&gt;ConstrictR is an R package inspired by a paper by Lionel Guidi designed for microbiome analysis. However, since it is just a package of useful bioinformatical analysis functions, it can be applied to a wide variety of data. The philosophy behind the project is to make an R package that is as user friendly as possible. We want a use of any experience level to have access to more complicated mathematical analysis techniques. &lt;br /&gt;
+&lt;br /&gt;
+ConstrictR is currently a work in progress with plans on the full version being available in August 2018.&lt;/p&gt;
+
+&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cnegrich/ConstrictR&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -65,17 +59,102 @@ I consistently update this site with new content, both posts and projects. Below
       <pubDate>Wed, 23 May 2018 00:59:48 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>Contact Christopher Negrich Github: &amp;nbsp;&amp;nbsp;cnegrich LinkedIn: Christopher Negrich Email: &amp;nbsp;&amp;nbsp; cnegrich@protonmail.com Public Key: &amp;nbsp;&amp;nbsp; GPG Public Key
-Summary I am a recent college graduate interested in computer security and software development. I have a strong background in computer science, especially in computer security and data analysis. I attended Barrett Honors College at Arizona State University where I studied Mathematics. While in college, I worked in several research positions in computer security, bioinformatics, and neuroscience.</description>
+      <description>
+
+&lt;h4 id=&#34;contact&#34;&gt;Contact&lt;/h4&gt;
+
+&lt;p&gt;&lt;img style=&#34;float: right;position: absolute; top: 150px;right: 380px;width: 200px;height: 200px;border-radius: 50%;overflow: hidden;&#34; src=&#34;ChrisProfilePic.jpeg&#34;&gt;
+Christopher Negrich &lt;br /&gt;
+Github: &amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://github.com/cnegrich/&#34;&gt;cnegrich&lt;/a&gt; &lt;br /&gt;
+LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/christopher-negrich/&#34;&gt;Christopher Negrich&lt;/a&gt; &lt;br /&gt;
+Email:   &amp;nbsp;&amp;nbsp; &lt;a href=&#34;mailto:cnegrich@gmail.com&#34;&gt;cnegrich@gmail.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;
+
+&lt;p&gt;Honors Bachelors of Science in Mathematics awarded May 2018&lt;br /&gt;
+Barrett Honors College at Arizona State University, Tempe, Arizona&lt;/p&gt;
+
+&lt;h4 id=&#34;experience&#34;&gt;Experience&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Informatics Team Leader&lt;/strong&gt;  from August 2017 - Current &lt;br /&gt;
+&lt;strong&gt;The Biodesign Institute at Arizona State University&lt;/strong&gt;, Tempe, Arizona&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lead a development team currently working on ConstrictR and ConstrictPy bioinformatics tools&lt;/li&gt;
+&lt;li&gt;Designed and built an R package (ConstrictR) and an accompanying Python tool (ConstrictPy) to assist in common bioinformatical analysis techniques&lt;/li&gt;
+&lt;li&gt;Package and tool focus on usability on the front-end (in Python) and mathematical efficiency and accuracy on the back-end (in R)&lt;/li&gt;
+&lt;li&gt;Managed the software version using Github&lt;/li&gt;
+&lt;li&gt;Working on preparing professional materials for publication of work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cyber Operations, Analysis, and Research Intern&lt;/strong&gt; from May 2017 - August 2017 &lt;br /&gt;
+&lt;strong&gt;Argonne National Laboratory&lt;/strong&gt;, Lemont, Illinois&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Position funded by the Department of Homeland Security (DHS)&lt;/li&gt;
+&lt;li&gt;Designed and authored a semi-passive TCP/IP vulnerability scanning tool based on open-source intelligence techniques, utilizing emerging techniques in the field&lt;/li&gt;
+&lt;li&gt;Field tested and deployed a full feature version of the semi-passive scanner&lt;/li&gt;
+&lt;li&gt;Utilized Python to design an object oriented framework for web scraping, including a fully featured user interface&lt;/li&gt;
+&lt;li&gt;Leveraged natural language processing, regular expressions, keyword searching for data handling/presentation&lt;/li&gt;
+&lt;li&gt;Researched a technical advisory covering best practices for personal area network (PAN) security&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Neuroscience Research Intern&lt;/strong&gt; from July 2015 - December 2016 &lt;br /&gt;
+&lt;strong&gt;The Biodesign Institute at Arizona State University&lt;/strong&gt;, Tempe, Arizona&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alzheimer&amp;rsquo;s disease and Traumatic Brain Injury (TBI) research project using both mouse and human tissue&lt;/li&gt;
+&lt;li&gt;Applied image analysis and statistical quantification techniques to confocal fluorescent microscopy to determine disease progression and pharmaceutical treatment effectiveness&lt;/li&gt;
+&lt;li&gt;Developed internal protocols for common fluorescent microscope staining techniques&lt;/li&gt;
+&lt;li&gt;Assisted in editing and producing a variety of materials including professional posters and papers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Informatics Research Intern&lt;/strong&gt; from September 2014 - April 2015 &lt;br /&gt;
+&lt;strong&gt;Arizona State University&amp;rsquo;s School of Life Sciences&lt;/strong&gt;, Tempe, Arizona&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Researched the divergence of the Y chromosome from the X chromosome&lt;/li&gt;
+&lt;li&gt;Created file generators in Python and Java for automation and data validation&lt;/li&gt;
+&lt;li&gt;Assisted in the education of lab scientists on tool usage and introductory programming&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Administrator level experience with&lt;/strong&gt; Linux: Debian, Ubuntu (including LTS) Arch, Kali, Buscador, Black Box, Parrot Security, Windows: Home, Professional, and Server, and Mac OS: Personal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proficient coding ability in&lt;/strong&gt; Python [2.7, 3.5, 3.6], C/C++, Java, JavaScript (JS), Structured Query Language (SQL)[MySQL, Sqlite, postgresql], HTML, CSS, PHP, R, Bash, Windows PowerShell, Assembly (x86), Clingo, Cplus2ASP, Wolfram Mathematica, and Matlab&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experience with common data science tools&lt;/strong&gt; including Pandas, Numpy, Matlab, Mathematica, and Orange&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experience with common security tools&lt;/strong&gt; including Nmap, Burp, Nessus, Maltego, Wireshark, Ettercap, Hashcat, Gnome Privacy Guard (GPG). OpenSSL, OpenVPN, and Tor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experience with databases&lt;/strong&gt; both SQL-based and non-SQL-based such as MongoDB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code base management experience with&lt;/strong&gt; GitLab, Github, and the software development lifecycle&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hardware familiarity with&lt;/strong&gt; Desktops, Laptops, Servers, Raspberry Pi, Routers and Modems (Office and Home networking)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Background</title>
-      <link>/posts/introduction/</link>
+      <link>/posts/Introduction/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/introduction/</guid>
-      <description>Background I am a recent college graduate from the Barrett Honors College at Arizona State University (ASU) with a Bachelors of Science in Mathematics working at Deca Technologies who is very interested in data science and cybersecurity. During my time at ASU, I worked on several different research projects mostly focused on computer science and software development, but also including work in both wet labs and cybersecurity. Although my degree is in mathematics, I spent my time focusing on applying it to computer engineering and cryptography.</description>
+      <guid>/posts/Introduction/</guid>
+      <description>
+
+&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;
+
+&lt;p&gt;I am a recent college graduate from the Barrett Honors College at Arizona State University (ASU) with a Bachelors of Science in Mathematics who is very interested in data science, tool development and cybersecurity. During my time at ASU, I worked on several different research projects mostly focused on computer science and software development, but also including work in both wet labs and cybersecurity. Although my degree is in mathematics, I spent my time focusing on applying it to computer engineering and cryptography. I have also taken most of the core courses for computer science students including algorithms and all of the base language courses. I am proficient in numerous coding languages including Python [2.7, 3.5, 3.6], C/C++, Java, JavaScript (JS), Structured Query Language (SQL)[MySQL, Sqlite, postgresql], HTML, CSS, PHP, R, Bash, Windows PowerShell, Assembly (x86), Clingo, Cplus2ASP, Wolfram Mathematica, and Matlab. And have experience with common data science tools, common security tools, popular Python, Java, C, and R packages/libraries, and database management. Additionally, I have experience with agile and the software development lifecycle and code base management software including GitLab and GitHub. I also have hardware familiarity with desktops, laptops, servers, Raspberry Pi, routers and modems (Office and Home networking). Finally, I have administrator level experience with Linux: Debian, Ubuntu (including LTS) Arch, Kali, Buscador, Black Box, Parrot Security, Windows: Home, Professional, and Server, and Mac OS.&lt;/p&gt;
+
+&lt;h4 id=&#34;current-research&#34;&gt;Current Research&lt;/h4&gt;
+
+&lt;p&gt;Currently, I am leading a software development team in creating an R package (called ConstrictR) and an accompanying python tool (called ConstrictPy). We will be releasing a full feature, tested version of these projects in the upcoming months.&lt;/p&gt;
+
+&lt;h4 id=&#34;contact&#34;&gt;Contact&lt;/h4&gt;
+
+&lt;p&gt;Christopher Negrich &lt;br /&gt;
+Github: &amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://github.com/cnegrich/&#34;&gt;cnegrich&lt;/a&gt; &lt;br /&gt;
+LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/christopher-negrich/&#34;&gt;Christopher Negrich&lt;/a&gt; &lt;br /&gt;
+Email:   &amp;nbsp;&amp;nbsp; &lt;a href=&#34;mailto:cnegrich@gmail.com&#34;&gt;cnegrich@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
