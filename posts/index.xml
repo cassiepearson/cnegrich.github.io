@@ -2,36 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Christopher Negrich</title>
-    <link>/posts/index.xml</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Christopher Negrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jun 2018 16:28:45 -0700</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating this site</title>
+      <link>/posts/hugo/</link>
+      <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
+      
+      <guid>/posts/hugo/</guid>
+      <description> Introduction Hugo Domains Hosting Automating Commits </description>
+    </item>
+    
+    <item>
+      <title>Sending secure emails (to me and others)</title>
+      <link>/posts/emails/</link>
+      <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
+      
+      <guid>/posts/emails/</guid>
+      <description>Why? Sending secure emails is important if any sensitive information needs to be sent. This could include a vulnerability disclosure, anything with personally identifiable information (PII), or any other information that you consider sensitive.
+How? I will explain how to send a secure email to me specifically below. But many other people have written similar tutorials, here is a link to a Tech Republic article on it. We will be using gpg (Gnome Privacy Guard) for this tutorial.</description>
+    </item>
     
     <item>
       <title>Background</title>
-      <link>/posts/Introduction/</link>
+      <link>/posts/introduction/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/Introduction/</guid>
-      <description>
-
-&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;
-
-&lt;p&gt;I am a recent college graduate from the Barrett Honors College at Arizona State University (ASU) with a Bachelors of Science in Mathematics who is very interested in data science, tool development and cybersecurity. During my time at ASU, I worked on several different research projects mostly focused on computer science and software development, but also including work in both wet labs and cybersecurity. Although my degree is in mathematics, I spent my time focusing on applying it to computer engineering and cryptography. I have also taken most of the core courses for computer science students including algorithms and all of the base language courses. I am proficient in numerous coding languages including Python [2.7, 3.5, 3.6], C/C++, Java, JavaScript (JS), Structured Query Language (SQL)[MySQL, Sqlite, postgresql], HTML, CSS, PHP, R, Bash, Windows PowerShell, Assembly (x86), Clingo, Cplus2ASP, Wolfram Mathematica, and Matlab. And have experience with common data science tools, common security tools, popular Python, Java, C, and R packages/libraries, and database management. Additionally, I have experience with agile and the software development lifecycle and code base management software including GitLab and GitHub. I also have hardware familiarity with desktops, laptops, servers, Raspberry Pi, routers and modems (Office and Home networking). Finally, I have administrator level experience with Linux: Debian, Ubuntu (including LTS) Arch, Kali, Buscador, Black Box, Parrot Security, Windows: Home, Professional, and Server, and Mac OS.&lt;/p&gt;
-
-&lt;h4 id=&#34;current-research&#34;&gt;Current Research&lt;/h4&gt;
-
-&lt;p&gt;Currently, I am leading a software development team in creating an R package (called ConstrictR) and an accompanying python tool (called ConstrictPy). We will be releasing a full feature, tested version of these projects in the upcoming months.&lt;/p&gt;
-
-&lt;h4 id=&#34;contact&#34;&gt;Contact&lt;/h4&gt;
-
-&lt;p&gt;Christopher Negrich &lt;br /&gt;
-Github: &amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://github.com/cnegrich/&#34;&gt;cnegrich&lt;/a&gt; &lt;br /&gt;
-LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/christopher-negrich/&#34;&gt;Christopher Negrich&lt;/a&gt; &lt;br /&gt;
-Email:   &amp;nbsp;&amp;nbsp; &lt;a href=&#34;mailto:cnegrich@gmail.com&#34;&gt;cnegrich@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/posts/introduction/</guid>
+      <description>Background I am a recent college graduate from the Barrett Honors College at Arizona State University (ASU) with a Bachelors of Science in Mathematics working at Deca Technologies who is very interested in data science and cybersecurity. During my time at ASU, I worked on several different research projects mostly focused on computer science and software development, but also including work in both wet labs and cybersecurity. Although my degree is in mathematics, I spent my time focusing on applying it to computer engineering and cryptography.</description>
     </item>
     
   </channel>
