@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Creating this site</title>
-      <link>/posts/hugo/</link>
-      <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
-      
-      <guid>/posts/hugo/</guid>
-      <description> Introduction Hugo Domains Hosting Automating Commits </description>
-    </item>
-    
-    <item>
       <title>Sending secure emails (to me and others)</title>
       <link>/posts/emails/</link>
       <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
