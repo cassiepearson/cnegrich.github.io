@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Creating this site for yourself</title>
+      <link>/posts/hugo/</link>
+      <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
+      
+      <guid>/posts/hugo/</guid>
+      <description>Introduction There are a lot of ways to create a site, but almost everyone agrees that writing plain HTML sucks. It is much better to generate the static HTML and add more advanced functionality through javascript using tools like React, Redux, and Babel. This site is just generated static HTML since there is no need for more advanced javascript functionality. To generate this site, I use Hugo. This is a pretty simple process.</description>
+    </item>
+    
+    <item>
       <title>Sending secure emails (to me and others)</title>
       <link>/posts/emails/</link>
       <pubDate>Sun, 24 Jun 2018 16:28:45 -0700</pubDate>
