@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Christopher Negrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 May 2018 16:28:45 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 16 Feb 2019 14:21:54 -0700</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,16 @@
     <item>
       <title>ConstrictPy</title>
       <link>/projects/constrictpy/</link>
-      <pubDate>Fri, 25 May 2018 16:28:45 -0700</pubDate>
+      <pubDate>Sat, 16 Feb 2019 14:21:54 -0700</pubDate>
       
       <guid>/projects/constrictpy/</guid>
-      <description> Description ConstrictPy is a python tool that implements the ConstrictR package. ConstrictPy handles all the input and output, provides a UI, and data visualization that ConstrictR lacks. ConstrictPy is designed to be extremely user friendly and requires minimal technical skills to use effectively. Currently in development, full release of ConstrictPy is planned for August 2018. See below for the source code and documentation page.
-Links  Github Documentation  </description>
-    </item>
-    
-    <item>
-      <title>Github Pages Site (This Page)</title>
-      <link>/projects/pages/</link>
-      <pubDate>Fri, 25 May 2018 16:28:45 -0700</pubDate>
-      
-      <guid>/projects/pages/</guid>
-      <description>Description This is my personal website used to host a some small posts and personal coding projects.
-I consistently update this site with new content, both posts and projects. Below, I have linked to the source code and hosting respositories on github and have linked to my post explaining how I created this site. Look closely into the github repository and you may even get a glimpse of future posts and projects.</description>
+      <description>Description ConstrictPy is a python tool that implements the ConstrictR package. ConstrictPy handles all the input and output, provides a UI, and data visualization that ConstrictR lacks. ConstrictPy is designed to be extremely user friendly and requires minimal technical skills to use effectively. Currently in development, full release of ConstrictPy is planned for the near future. See below for the source code. Image downloaded from unsplash and taken by Sharon McCutcheon.</description>
     </item>
     
     <item>
       <title>ConstrictR</title>
       <link>/projects/constrictr/</link>
-      <pubDate>Fri, 25 May 2018 16:28:39 -0700</pubDate>
+      <pubDate>Sat, 16 Feb 2019 14:21:54 -0700</pubDate>
       
       <guid>/projects/constrictr/</guid>
       <description>Description ConstrictR is an R package inspired by a paper by Lionel Guidi designed for microbiome analysis. However, since it is just a package of useful bioinformatical analysis functions, it can be applied to a wide variety of data. The philosophy behind the project is to make an R package that is as user friendly as possible. We want a use of any experience level to have access to more complicated mathematical analysis techniques.</description>
