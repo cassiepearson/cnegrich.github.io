@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Christopher Negrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 14:20:14 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 14:20:14 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,12 @@
     <item>
       <title>Resume</title>
       <link>/posts/resume/</link>
-      <pubDate>Sat, 16 Feb 2019 14:20:14 -0700</pubDate>
+      <pubDate>Fri, 16 Aug 2019 14:20:14 -0700</pubDate>
       
       <guid>/posts/resume/</guid>
       <description>Contact Christopher Negrich Github: &amp;nbsp;&amp;nbsp;cnegrich LinkedIn: Christopher Negrich Email: &amp;nbsp;&amp;nbsp; cnegrich@gmail.com
-Summary I am a recent college graduate interested in computer security and software development. I have a strong background in computer science, especially in computer security and data analysis. I attended Barrett Honors College at Arizona State University where I studied Mathematics. While in college, I worked in several research positions in computer security, bioinformatics, and neuroscience. Currently, I work as a Sr.</description>
+Summary Graduate of Barrett Honors College at Arizona State University with a degree in mathematics and experience designing geometric, security and data science tools utilizing Python, C, Rust, and other programming languages. Skilled in software and algorithm development, the software development lifecycle, security protocol management, and IT solutions.
+Education Honors Bachelors of Science in Mathematics awarded May 2018 Barrett Honors College at Arizona State University, Tempe, Arizona</description>
     </item>
     
   </channel>
