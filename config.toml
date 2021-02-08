@@ -1,0 +1,111 @@
+baseurl      = "/"
+title        = "Christopher Negrich"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[author]
+    name = "Christopher Negrich"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Resume site with educational slides and posts"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Christopher Negrich's website"
+  keywords = "homepage, blog, slides, resume"
+  images = [""]
+
+  customCSS = []
+  customJS  = []
+
+[params.favicon.color]
+  mask = "#1b1c1d"
+  msapplication = "#1b1c1d"
+  theme = "#1b1c1d"
+
+[params.logo]
+  logoMark     = ">"
+  logoText     = "$ cd /home/"
+  logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/ChrisNegrich"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:christopher.a.negrich@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/cnegrich"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/christopher-negrich"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/12011679/cnegrich"
+
+[menu]
+  # Menu options
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "resume"
+    name       = "Resume"
+    url        = "/posts/resume"
+
+   [[menu.main]]
+    identifier = "slides"
+    name       = "Slides"
+    url        = "http://christophernegrich.com/reveal-slides/" 
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Chris Negrich"
+    subtitle = "Resume and Slides"
+    keywords = ""
+    readOtherPosts = "Read other posts"
+
