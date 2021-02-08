@@ -1,5 +1,5 @@
 ---
-title: "Upcomming Posts"
+title: "Upcoming Posts"
 date: 2021-02-07
 draft: false
 ---
