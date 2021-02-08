@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Chris Negrich</title><link>/posts/</link><description>Recent content in Posts on Chris Negrich</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Christopher Negrich's Resume</title><link>/posts/resume/</link><pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate><guid>/posts/resume/</guid><description>Personal statement Experienced educator and mentor teaching colleagues and college students how to plan and develop software projects. Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development, reading, writing, chess, and music. Work Experience Sr. Software Algorithms Engineer February 2019 – Current Deca Technologies, Tempe, Arizona Working in Rust and Python to develop tools, algorithms, and heuristics for electronics manufacturing Working to create, manage, and support computing systems deployed internationally using AWS and Docker Volunteer Project Manger August 2017 – May 2019 Arizona State University’s Biodesign Institute, Tempe, Arizona Lead a team of students, architecting and implementing a software toolkit for biological research Taught a team of students skills including: how to program in both R and Python, plan and manage agile projects, use the unix shell, use git, and document software using typesetting languages including Markdown and LaTeX Software Engineer June 2018 – November 2018 Deca Technologies, Tempe, Arizona Worked as part of an agile development team using Github, Jenkins, and Jira for version management Created software that uses computational geometry to improve the efficiency of factory machines Cyber Operations, Analysis, and Research Intern May 2017 – August 2017 Argonne National Laboratory, Lemont, Illinois Designed, authored, tested, and deployed a semi-passive TCP/IP vulnerability scanning tool based on open-source intelligence techniques, utilizing emerging techniques in the field Skills Mathematical education in computational and theoretical geometry, algorithm design, combinatorics, graph theory, and topology</description><content type="html"><![CDATA[<div class="embed reveal-slides">
+  <p align="center">
+    <iframe class="reveal-js" type="text/html" width="640" height="385"
+        src="http://christophernegrich.com/reveal-slides/slides/aboutme.html" allowfullscreen frameborder="0">
+    </iframe>
+  </p>
+</div>
+<h2 id="personal-statement">Personal statement</h2>
+<hr>
+<p>Experienced educator and mentor teaching colleagues and college students how to plan and develop software projects. Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development, reading, writing, chess, and music. <!-- raw HTML omitted --></p>
+<h2 id="work-experience">Work Experience</h2>
+<hr>
+<h3 id="sr-software-algorithms-engineer">Sr. Software Algorithms Engineer</h3>
+<ul>
+<li>February 2019 – Current</li>
+<li>Deca Technologies, Tempe, Arizona</li>
+<li>Working in Rust and Python to develop tools, algorithms, and heuristics for electronics manufacturing</li>
+<li>Working to create, manage, and support computing systems deployed internationally using AWS and Docker</li>
+</ul>
+<h3 id="volunteer-project-manger">Volunteer Project Manger</h3>
+<ul>
+<li>August 2017 – May 2019</li>
+<li>Arizona State University’s Biodesign Institute, Tempe, Arizona</li>
+<li>Lead a team of students, architecting and implementing a software toolkit for biological research</li>
+<li>Taught a team of students skills including: how to program in both R and Python, plan and manage agile projects, use the unix shell, use git, and document software using typesetting languages including Markdown and LaTeX</li>
+</ul>
+<h3 id="software-engineer">Software Engineer</h3>
+<ul>
+<li>June 2018 – November 2018</li>
+<li>Deca Technologies, Tempe, Arizona</li>
+<li>Worked as part of an agile development team using Github, Jenkins, and Jira for version management</li>
+<li>Created software that uses computational geometry to improve the efficiency of factory machines</li>
+</ul>
+<h3 id="cyber-operations-analysis-and-research-intern">Cyber Operations, Analysis, and Research Intern</h3>
+<ul>
+<li>May 2017 – August 2017</li>
+<li>Argonne National Laboratory, Lemont, Illinois</li>
+<li>Designed, authored, tested, and deployed a semi-passive TCP/IP vulnerability scanning tool based on open-source intelligence techniques, utilizing emerging techniques in the field</li>
+</ul>
+<h2 id="skills">Skills</h2>
+<hr>
+<h3 id="mathematical-education">Mathematical education</h3>
+<p>in computational and theoretical geometry, algorithm design, combinatorics, graph theory, and topology</p>
+<h3 id="proficient-coding-ability">Proficient Coding Ability</h3>
+<p>in Rust, Python, C/C++, Java, Scala, R, Scheme, JavaScript (JS), Structured Query Language (SQL), Unix Shell Scripting, Clingo, Mathematica, and Matlab</p>
+<h3 id="code-base-management-experience">Code base management experience</h3>
+<p>with Github, Gitlab, Jenkins, Gitlab CI, and Jira</p>
+<h3 id="communication-skills">Communication skills</h3>
+<p>including providing and accepting feedback, speaking, presenting, writing, active listening, and team building</p>
+<h3 id="experience-with-software-analysis-resources">Experience with software analysis resources</h3>
+<p>including debuggers, decompilers, and profilers</p>
+<h3 id="it-skills">IT skills</h3>
+<p>including server management, network security, data security, and software deployment</p>
+<h3 id="additional-skills">Additional skills</h3>
+<p>in critical thinking, time management, patience, and organization</p>
+<h2 id="hobbies">Hobbies</h2>
+<hr>
+<p>Chess  • Piano • Guitar • Biking • Baking • Reading</p>
+<h2 id="external-links">External Links</h2>
+<hr>
+<h3 id="email">Email</h3>
+<p><a href="mailto:christopher.a.negrich@gmail.com">christopher.a.negrich@gmail.com</a></p>
+<h3 id="linkedin">LinkedIn</h3>
+<p><a href="https://www.linkedin.com/in/christopher-negrich">Christopher Negrich</a></p>
+<h3 id="github">Github</h3>
+<p><a href="https://github.com/cnegrich">cnegrich</a></p>
+<h3 id="twitter">Twitter</h3>
+<p><a href="https://twitter.com/ChrisNegrich">ChrisNegrich</a></p>
+]]></content></item><item><title>Upcomming Posts</title><link>/posts/upcomming/</link><pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate><guid>/posts/upcomming/</guid><description>Plans for the future Currently, this site is very sparse. I am working on a variety of educational posts on basic computer science and programming. Each will come with an accompanying reveal.js slide show. Check back soon for more!</description><content type="html">&lt;h2 id="plans-for-the-future">Plans for the future&lt;/h2>
+&lt;p>Currently, this site is very sparse. I am working on a variety of educational posts on basic computer science and programming. Each will come with an accompanying reveal.js slide show. Check back soon for more!&lt;/p></content></item></channel></rss>
