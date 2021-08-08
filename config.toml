@@ -33,7 +33,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Resume site with educational slides and posts"
+  homeSubtitle = "Resume site with educational posts and reveal js slides"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -85,7 +85,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/posts"
+    url        = "/categories"
 
   [[menu.main]]
     identifier = "resume"
@@ -99,7 +99,7 @@ disableHugoGeneratorInject = false
 
 [taxonomies]
     category = "blog"
-    tag      = "tags"
+    tag      = "categories"
     series   = "series"
 
 [languages]

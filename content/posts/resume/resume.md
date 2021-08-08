@@ -1,14 +1,33 @@
 ---
 title: "Christopher Negrich's Resume"
-date: 2021-02-07
+date: 2021-06-09
+categories:
+  - resume
 draft: false
 ---
 
 {{< reveal "http://christophernegrich.com/reveal-slides/slides/aboutme.html" >}}
 
 ## Personal statement 
+
 ---
-Experienced educator and mentor teaching colleagues and college students how to plan and develop software projects. Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development, reading, writing, chess, and music. <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development and security. <!-- .element: class="fragment" data-fragment-index="1" -->
+
+## Education
+
+---
+
+Bachelors of Science in Mathematics graduated cum laude May 2018
+Barrett Honors College at Arizona State University, Tempe, Arizona
+
+## Professional Certificates
+
+---
+
+Security+ Certificate
+Earned July 14, 2021
+Expires July 14, 2024
 
 ## Work Experience
 
@@ -74,7 +93,7 @@ in critical thinking, time management, patience, and organization
 
 ## Hobbies
 ---
-Chess  • Piano • Guitar • Biking • Baking • Reading
+Chess  • Piano • Biking • Baking • Reading
 
 ## External Links
 
