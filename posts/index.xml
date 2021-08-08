@@ -1,4 +1,260 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Chris Negrich</title><link>/posts/</link><description>Recent content in Posts on Chris Negrich</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Christopher Negrich's Resume</title><link>/posts/resume/</link><pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate><guid>/posts/resume/</guid><description>Personal statement Experienced educator and mentor teaching colleagues and college students how to plan and develop software projects. Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development, reading, writing, chess, and music. Work Experience Sr. Software Algorithms Engineer February 2019 – Current Deca Technologies, Tempe, Arizona Working in Rust and Python to develop tools, algorithms, and heuristics for electronics manufacturing Working to create, manage, and support computing systems deployed internationally using AWS and Docker Volunteer Project Manger August 2017 – May 2019 Arizona State University’s Biodesign Institute, Tempe, Arizona Lead a team of students, architecting and implementing a software toolkit for biological research Taught a team of students skills including: how to program in both R and Python, plan and manage agile projects, use the unix shell, use git, and document software using typesetting languages including Markdown and LaTeX Software Engineer June 2018 – November 2018 Deca Technologies, Tempe, Arizona Worked as part of an agile development team using Github, Jenkins, and Jira for version management Created software that uses computational geometry to improve the efficiency of factory machines Cyber Operations, Analysis, and Research Intern May 2017 – August 2017 Argonne National Laboratory, Lemont, Illinois Designed, authored, tested, and deployed a semi-passive TCP/IP vulnerability scanning tool based on open-source intelligence techniques, utilizing emerging techniques in the field Skills Mathematical education in computational and theoretical geometry, algorithm design, combinatorics, graph theory, and topology</description><content type="html"><![CDATA[<div class="embed reveal-slides">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Chris Negrich</title><link>/posts/</link><description>Recent content in Posts on Chris Negrich</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Bad Reason Fallacy</title><link>/posts/fallacies/bad_reason/</link><pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate><guid>/posts/fallacies/bad_reason/</guid><description>Overview The bad reason fallacy is a formal logical fallacy that comes from arguing a conclusion is bad because a reason for it is bad. This is a fallacy since the conclusion can be true despite being providing a false argument.
+Fallacy Names Bad reason fallacy Structure Proposition A because of the argument B. B is false, therefore the proposition A is false.
+If A then B because C.</description><content type="html"><![CDATA[<h2 id="overview">Overview</h2>
+<hr>
+<p>The bad reason fallacy is a formal logical fallacy that comes from arguing a conclusion is bad because a reason for it is bad. This is a fallacy since the conclusion can be true despite being providing a false argument.</p>
+<h2 id="fallacy-names">Fallacy Names</h2>
+<hr>
+<ul>
+<li>Bad reason fallacy</li>
+</ul>
+<h2 id="structure">Structure</h2>
+<hr>
+<p>Proposition A because of the argument B.
+B is false, therefore the proposition A is false.</p>
+<p>If A then B because C.
+Not C, therefore if A, then not B.</p>
+<h2 id="examples">Examples</h2>
+<hr>
+<p>This drive is encrypted using two key files because it is using asymmetric encryption. But the system uses symmetric encryption, therefore it cannot have two key files.</p>
+<ul>
+<li>This is an example of a bad reason fallacy. It is possible for a symmetric key to be split into two files. This may facilitate two party verification. Therefore, the argument against it being symmetric does not invalidate that two key files can exist. The conclusion is not invalidated because the argument used to make it is false.</li>
+</ul>
+<p>This drive is encrypted with a 128 bit key. Therefore it is using symmetric encryption. But the drive is actually encrypted with a 256 bit key, therefore symmetric encryption is not being used.</p>
+<ul>
+<li>This is false, AES is likely to have a 128 or a 256 bit key. This reason does not invalidate, but actually may provide support for the conclusion.</li>
+</ul>
+<p>Consider a programming team where all bugs are fixed when a severity level is reached. A team meets and fails to present any compelling argument for the severity of a bug. Therefore, the team concludes that the bug is low severity and does not need to be fixed.</p>
+<ul>
+<li>If the team was given insufficient time or resources to investigate or assess the bug, then compelling arguments may exist that were not uncovered.</li>
+</ul>
+<h2 id="avoidance">Avoidance</h2>
+<hr>
+<p>It is important to question arguments of any conclusions made. Though, if an argument is dismissed, the voracity of the conclusion or the argued proposition should be considered independently.</p>
+]]></content></item><item><title>Post Hoc Fallacy</title><link>/posts/fallacies/posthoc/</link><pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate><guid>/posts/fallacies/posthoc/</guid><description>Overview This logical fallacy comes from assuming sequential events cause one another.
+It should be noted that this fallacy is highly similar to two other fallacies. First, the fallacy of the inverse. If the latter half of the statement is negated, the post hoc fallacy becomes a fallacy of the inverse. Second, the fallacy of affirming the consequent, if A then B; B, therefore A.
+Fallacy Names False attribution fallacy Post hoc fallacy This name comes from a Latin phrase &amp;lsquo;post hoc ergo propter hoc&amp;rsquo; which translates to &amp;lsquo;after this, therefore because of this&amp;rsquo;.</description><content type="html"><![CDATA[<h2 id="overview">Overview</h2>
+<hr>
+<p>This logical fallacy comes from assuming sequential events cause one another.</p>
+<p>It should be noted that this fallacy is highly similar to two other fallacies. First, the fallacy of the inverse. If the latter half of the statement is negated, the post hoc fallacy becomes a fallacy of the inverse. Second, the fallacy of affirming the consequent, if A then B; B, therefore A.</p>
+<h2 id="fallacy-names">Fallacy Names</h2>
+<hr>
+<ul>
+<li>False attribution fallacy</li>
+<li>Post hoc fallacy
+This name comes from a Latin phrase &lsquo;post hoc ergo propter hoc&rsquo; which translates to &lsquo;after this, therefore because of this&rsquo;.  Commonly called the post hoc fallacy.</li>
+</ul>
+<h2 id="structure">Structure</h2>
+<hr>
+<p>If A, then B. Therefore, A caused B.</p>
+<h2 id="examples">Examples</h2>
+<hr>
+<p>The user provided an authenticated cookie. If a user has an authenticated cookie, then they were authenticated by the system. Therefore, the user has the authenticated cookie because they were authenticated.</p>
+<ul>
+<li>The assumption of past authentication fails if the authenticated session is hijacked.</li>
+</ul>
+<p>The timestamp of the authenticated session comes after the authentication request was sent. Therefore, the authentication request verified the user&rsquo;s identity.</p>
+<ul>
+<li>This may not be true. Timestamps can be manipulated and the sequence of events does imply causality.</li>
+</ul>
+<h2 id="avoidance">Avoidance</h2>
+<hr>
+<p>In security, this fallacy can arise frequently due to timestamps. Remember that due to timezone and system clock differences, there may be issues with log timestamps. Generally, avoid the assumption that time-series sequential events cause one another.</p>
+]]></content></item><item><title>Euclid Postulates and Notions - Assumptions and Axioms</title><link>/posts/mathematics/euclid_postulates/</link><pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate><guid>/posts/mathematics/euclid_postulates/</guid><description>Postulates - Assumptions Euclid&amp;rsquo;s postulates are a set of basic geometric assumptions that allow for basic shapes to be formed. These postulates are the minimum necessary set of assumptions required for Euclid&amp;rsquo;s proofs.
+Postulates (Assumptions):
+To draw a straight line from any point to any point A finite straight line is a line between any two points To produce a finite straight line continuous in a straight line A finite continuous straight line exists To Describe a circle with any center and distance A circle can exist with any radius That, if a straight lines falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side which are the angles less than the two right angles To restate that, two skewed lines will eventually intersect on the side where the angle is acute Notions - Axioms Notions are axioms for Euclid&amp;rsquo;s Elements.</description><content type="html"><![CDATA[<h2 id="postulates---assumptions">Postulates - Assumptions</h2>
+<p>Euclid&rsquo;s postulates are a set of basic geometric assumptions that allow for basic shapes to be formed. These postulates are the minimum necessary set of assumptions required for Euclid&rsquo;s proofs.</p>
+<p>Postulates (Assumptions):</p>
+<ol>
+<li>To draw a straight line from any point to any point
+<ul>
+<li>A finite straight line is a line between any two points</li>
+</ul>
+</li>
+<li>To produce a finite straight line continuous in a straight line
+<ul>
+<li>A finite continuous straight line exists</li>
+</ul>
+</li>
+<li>To Describe a circle with any center and distance
+<ul>
+<li>A circle can exist with any radius</li>
+</ul>
+</li>
+<li>That, if a straight lines falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side which are the angles less than the two right angles
+<ul>
+<li>To restate that, two skewed lines will eventually intersect on the side where the angle is acute
+<img src="/img/posts/SkewedLinesWithBackground.png" alt="Skewed Lines" title="Skewed Lines"></li>
+</ul>
+</li>
+</ol>
+<h2 id="notions---axioms">Notions - Axioms</h2>
+<p>Notions are axioms for Euclid&rsquo;s Elements. Some sources will cite additional axioms relied on by Euclid for different selected works. Importantly, these axioms do not match modern mathematics. Everything here can be covered by the set of modern geometric axioms. Axioms are important to consider as they provide the boundaries of the universe in which any theorems are true. For instance, Euclid will go on to prove numerous properties of lines and angles within the Elements. However, if those same lines or angles are drawn on a flat plane, then that plane is bent in 3D space and the same theorems are considered, they may prove to be false depending on the surface and the manner of bending. Considering the axioms carefully when applying any of the theorems or propositions stemming from them is important. Anything that changes the boundary conditions may change the truth of the statement.</p>
+<p>Notions (Axioms):</p>
+<ol>
+<li>Things which are equal to the same thing are also equal to one another
+<ul>
+<li>Transitive property applies to geometry. If two triangles are equal to the same triangle, then they are equal. If A = B and B = C, then A = C</li>
+</ul>
+</li>
+<li>If equals be added to equals, the wholes are equal
+<ul>
+<li>Euclid&rsquo;s statement should be considered in terms of geometry. That is two lines create a line and two rectangles added will create a rectangle.</li>
+</ul>
+</li>
+<li>If equals be subtracted from equals, the remainders are equal
+<ul>
+<li>Similar to the above, subtracting a rectangle from a rectangle leaves a rectangle. Subtracting an angle from an angle leaves an angle.</li>
+</ul>
+</li>
+<li>Things which coincide with one another are equal to one another
+<ul>
+<li>Two angles of equal pairs of lines are equal.</li>
+</ul>
+</li>
+<li>The whole is greater than the part
+<ul>
+<li>If A + B = C, then C &gt; A &amp;&amp; C &gt; B</li>
+</ul>
+</li>
+</ol>
+<h2 id="sources">Sources</h2>
+<p>Euclid, Euclid’s Elements. Santa Fe, NM: Green Lion Press, 2002.</p>
+]]></content></item><item><title>Affirming a disjunct</title><link>/posts/fallacies/disjunct/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>/posts/fallacies/disjunct/</guid><description>Overview Affirming a disjunct is a logical fallacy that occurs in propositional logic when a disjunct is assumed. The logical operator or is inclusive, meaning it can be A or B or both. This fallacy occurs when a disjunct is assumed. That is the assumption of the terms A implies not B and B implies not A.
+Fallacy Names Affirming a disjunct Structure Given A or B.</description><content type="html"><![CDATA[<h2 id="overview">Overview</h2>
+<hr>
+<p>Affirming a disjunct is a logical fallacy that occurs in propositional logic when a disjunct is assumed. The logical operator or is inclusive, meaning it can be A or B or both. This fallacy occurs when a disjunct is assumed. That is the assumption of the terms A implies not B and B implies not A.</p>
+<h2 id="fallacy-names">Fallacy Names</h2>
+<hr>
+<ul>
+<li>Affirming a disjunct</li>
+</ul>
+<h2 id="structure">Structure</h2>
+<hr>
+<p>Given A or B.<br>
+A therefore not B.</p>
+<h2 id="examples">Examples</h2>
+<hr>
+<p>The sun is shining or it is raining.
+The sun is shining therefore it is not raining. Equivalently, it is raining therefore the sun is not shining.</p>
+<ul>
+<li>Both of the implications could be false. It could be cloudy and not raining. There could be a sunshower.</li>
+</ul>
+<p>The packet is malicious or it is harmless.
+The packet is not malicious therefore it is harmless.</p>
+<ul>
+<li>This is false. A packet sent without malicious intent could have unintended consequences and should still be verified.</li>
+</ul>
+<h2 id="avoidance">Avoidance</h2>
+<hr>
+<p>First, when considering potential binary choices, question if there are other options available. Second, when dealing with or statements always consider whether the implication is inclusive or exclusive. Finally, always check first order propositions for potential logical inconsistencies. This could be done with a truth table that is used to verify that the conclusion is not in violation of the proposition posed.</p>
+]]></content></item><item><title>NIST SP800-37 Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy</title><link>/posts/nist/sp800-37/</link><pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate><guid>/posts/nist/sp800-37/</guid><description>Introduction The National Institute of Standards and Technology maintains several important publications about risk management and security as part of its mission to promote innovation and industrial competitiveness [1]. There are several important publications from NIST, but this post will summarize special publication (SP) 800-37 &amp;lsquo;Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy&amp;rsquo;. The target audience for this document is any individual or organization associated with the design, development, implementation, assessment, operation, maintenance, and disposition of information systems [2].</description><content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<hr>
+<p>The National Institute of Standards and Technology maintains several important publications about risk management and security as part of its mission to promote innovation and industrial competitiveness [1]. There are several important publications from NIST, but this post will summarize special publication (SP) 800-37 &lsquo;Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy&rsquo;. The target audience for this document is any individual or organization associated with the design, development, implementation, assessment, operation, maintenance, and disposition of information systems [2].  As stated, this document provides a  Risk Management Framework (RMF) for any information systems. This is primarily focused on digital information systems and integration into modern cybersecurity, but not exclusively.</p>
+<p>Sources are cited below, original article available free from NIST <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf">here</a>.</p>
+<h2 id="purpose-of-publication">Purpose of Publication</h2>
+<hr>
+<p>To quote directly from the publication [2]:</p>
+<p>&quot;<br>
+The guidelines have been developed:</p>
+<ul>
+<li>To ensure that managing system-related security and privacy risk is consistent with the mission and business objectives of the organization and risk management strategy established by the senior leadership through the risk executive (function);</li>
+<li>To achieve privacy protections for individuals and security protections for information and information systems through the implementation of appropriate risk response strategies;</li>
+<li>To support consistent, informed, and ongoing authorization decisions, reciprocity, and the transparency and traceability of security and privacy information;</li>
+<li>To facilitate the integration of security and privacy requirements and controls into the enterprise architecture, SDLC processes, acquisition processes, and systems engineering processes;</li>
+<li>To facilitate the implementation of the Framework for Improving Critical Infrastructure Cybersecurity [NIST CSF] within federal agencies.</li>
+</ul>
+<p>&quot;</p>
+<p>The design of this publication is to provide means for handling organizational risks to information systems. This includes establishing rules for data privacy, data owners, data transparency, secure software development, and secure systems engineering. The details are not meant to establish specific security measures to counter known risks, but rather provide an organizational framework for addressing, understanding, mitigating, and accepting risk.</p>
+<h2 id="fundamentals-and-the-risk-management-process">Fundamentals and the Risk Management Process</h2>
+<hr>
+<p>This publication takes a three tiered approach to managing risk as demonstrated in the following diagram [2]:</p>
+<p><img src="/img/posts/NIST80037_Fig1.png" alt="NISTSP80037" title="NIST SP800-37 Figure 1"></p>
+<p>To summarize figure 1:</p>
+<ul>
+<li>Organization
+<ul>
+<li>This level has a primary focus on governance and program-related risk management [1]. This level encompasses activities critical to preparing the organization to execute the RMF [2]. This is the level at which important decisions linked to the business objectives, system modernization, enterprise architecture, and resource allocation are made. The primary responsibilities at this level are to understand risk, assign roles, identify critical functions, and prioritize security requirements. </li>
+</ul>
+</li>
+<li>Mission/Business Process
+<ul>
+<li>This level focuses on the business or mission objectives. For example, defining the criticality of information flows between the organization and its partners [1]. This tier is closely related to the level one, but focuses more on information flow, communication, and assigning task criticality.</li>
+</ul>
+</li>
+<li>Information System
+<ul>
+<li>This is the risk at the information technology level. This is where risk to physical and digital information becomes less organizational and more practical.</li>
+</ul>
+</li>
+</ul>
+<p>Communication of risks and priorities will flow down the diagram and incident reporting will flow up. Feedback will be provided from the information system level up to the organization level to make sure every keyholder is up to date on the critical threats. New directives and priorities will flow down back to the information system level after careful consideration of the reports and threat intelligence collected.</p>
+<p>Once a conceptualization of the framework is understood, stakeholders should execute the process. The NIST RMF isolates seven key steps to ensure that activities are successfully executed [2]:</p>
+<ol>
+<li>Prepare
+<ul>
+<li>Both organization and system level preparation is needed to establish a context and priorities for managing security and privacy risks.</li>
+</ul>
+</li>
+<li>Categorize
+<ul>
+<li>The system and information processed, stored, and transmitted should be categorized based on the impact of loss.</li>
+</ul>
+</li>
+<li>Select
+<ul>
+<li>Select an initial set of controls and tailor the controls as needed to reduce risk to an acceptable and manageable level.</li>
+</ul>
+</li>
+<li>Implement
+<ul>
+<li>Implement the controls and document thoroughly.</li>
+</ul>
+</li>
+<li>Assess
+<ul>
+<li>Determine if all controls are implemented correctly, operating as intended, and producing desirable outcomes.</li>
+</ul>
+</li>
+<li>Authorize
+<ul>
+<li>Authorize system controls based on a risk assessment.</li>
+</ul>
+</li>
+<li>Monitor
+<ul>
+<li>Monitor control efficaciousness, perform ongoing maintenance, and document all changes, assessments, feedback, and analysis.</li>
+</ul>
+</li>
+</ol>
+<p>NIST provides more details in the special publication including the minimum set of required tasks to ensure each step is successfully implemented. This includes potential inputs, executed outputs, and the primary role responsible for the task. Any organization could benefit from reviewing this set of tasks and ensuring that there is corresponding coverage within their risk management framework.</p>
+<h2 id="conclusion">Conclusion</h2>
+<hr>
+<p>This NIST publication is very detailed and provides more than just the fundamentals for organizational risk management. More topics including supply chain risk management, security and privacy, authorization boundaries, and requirements and controls are covered. This summary is meant to provide a conceptual framework for the key ideas behind risk management as outlined by NIST. In any security environment, an understanding of the conceptual framework for determining and addressing risk is critical. NIST RMF is by no means a one size fits all solution to risk management, but it provides a useful framework and highlights crucial ideas in the field. This NIST special publication can provide great benefit to any organization&rsquo;s information infrastructure and data security.</p>
+<h2 id="sources">Sources</h2>
+<hr>
+<ol>
+<li>B. Chapman and F. Maymi, CompTIA CySA+ cybersecurity analyst certification all-in-one exam guide, second edition (exam CS0-002), 2nd ed. Columbus, OH: McGraw-Hill Education, 2020.</li>
+<li>Joint  Task Force Transformation Initiative, “Risk management framework for  information systems and organizations: A system life cycle approach for  security and privacy,” National Institute of Standards and Technology,  Gaithersburg, MD, 2018.</li>
+</ol>
+<h2 id="acronym-dictionary">Acronym Dictionary</h2>
+<hr>
+<p>NIST: National Institute of Standards and Technology<br>
+RMF: Risk Management Framework<br>
+SP: Special Publication</p>
+]]></content></item><item><title>CIA and DAD Triads</title><link>/posts/security_concepts/triads/</link><pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate><guid>/posts/security_concepts/triads/</guid><description>CIA and DAD Triads The CIA and DAD are cybersecurity concepts describing the essential objectives and threats to a system.
+The CIA triad describes the three major objectives in securing a system. These are confidentiality, integrity, and availability. Confidentiality is important when considering access to data. Unauthorized actors should not be given access to data even if it seems harmless to do so. Integrity refers to the structure of the system itself.</description><content type="html"><![CDATA[<h2 id="cia-and-dad-triads">CIA and DAD Triads</h2>
+<hr>
+<p>The CIA and DAD are cybersecurity concepts describing the essential objectives and threats to a system.</p>
+<p>The CIA triad describes the three major objectives in securing a system. These are confidentiality, integrity, and availability. Confidentiality is important when considering access to data. Unauthorized actors should not be given access to data even if it seems harmless to do so. Integrity refers to the structure of the system itself. If a component of the infrastructure is compromised, then the entire system could be damaged. This objective is about protecting against data, hardware, system, and intellectual property loss. Finally, availability concerns the uptime of a system. In any mission critical environment, it is essential that the system is accessible at all times. This is increasingly important for web applications deployed in the cloud. DDoS attacks can prevent users from accessing the application costing money or endangering mission critical operations. The CIA triad defines a scope for robust goals.</p>
+<p>The DAD triad describes the three major threats against a system. These are disclosure, alteration, and denial. Each of these is the threat to the corresponding members of the CIA triad. That is to say, disclosure threatens confidentiality, alteration threatens integrity, and denial threatens availability. This direct mapping provides a convenient tool for considering issues with cybersecurity. For instance, the triads can be turned into questions helpful when considering if an objective was achieved: &ldquo;Does the public server have the potential to disclose confidential information to unauthorized individuals?&rdquo; Although not comprehensive of all potential issues to be considered in risk assessment, the DAD triad is useful when determining potential threat vectors.</p>
+<p>These triads are guidelines rather than rigid categories. Most objectives and threats will fall into all of the categories. However, they are still helpful in scoping and creating a goal. When considering that a DDoS attack could jeopardize availability and integrity, the impact of the threat may be considered elevated. This could cause a decision to be made that more money should be spent on a commercial solution or that additional safeguards need to be placed to ensure system integrity in the event of an attack.</p>
+<h2 id="sources">Sources</h2>
+<hr>
+<p>M. Chapple and D. Seidl, CompTIA security+ study guide: Exam SY0-601, 8th ed. Indianapolis, IN: Sybex, 2021.</p>
+]]></content></item><item><title>Christopher Negrich's Resume</title><link>/posts/resume/resume/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>/posts/resume/resume/</guid><description>Personal statement Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development and security. Education Bachelors of Science in Mathematics graduated cum laude May 2018 Barrett Honors College at Arizona State University, Tempe, Arizona
+Professional Certificates Security+ Certificate Earned July 14, 2021 Expires July 14, 2024
+Work Experience Sr. Software Algorithms Engineer February 2019 – Current Deca Technologies, Tempe, Arizona Working in Rust and Python to develop tools, algorithms, and heuristics for electronics manufacturing Working to create, manage, and support computing systems deployed internationally using AWS and Docker Volunteer Project Manger August 2017 – May 2019 Arizona State University’s Biodesign Institute, Tempe, Arizona Lead a team of students, architecting and implementing a software toolkit for biological research Taught a team of students skills including: how to program in both R and Python, plan and manage agile projects, use the unix shell, use git, and document software using typesetting languages including Markdown and LaTeX Software Engineer June 2018 – November 2018 Deca Technologies, Tempe, Arizona Worked as part of an agile development team using Github, Jenkins, and Jira for version management Created software that uses computational geometry to improve the efficiency of factory machines Cyber Operations, Analysis, and Research Intern May 2017 – August 2017 Argonne National Laboratory, Lemont, Illinois Designed, authored, tested, and deployed a semi-passive TCP/IP vulnerability scanning tool based on open-source intelligence techniques, utilizing emerging techniques in the field Skills Mathematical education in computational and theoretical geometry, algorithm design, combinatorics, graph theory, and topology</description><content type="html"><![CDATA[<div class="embed reveal-slides">
   <p align="center">
     <iframe class="reveal-js" type="text/html" width="640" height="385"
         src="http://christophernegrich.com/reveal-slides/slides/aboutme.html" allowfullscreen frameborder="0">
@@ -7,7 +263,16 @@
 </div>
 <h2 id="personal-statement">Personal statement</h2>
 <hr>
-<p>Experienced educator and mentor teaching colleagues and college students how to plan and develop software projects. Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development, reading, writing, chess, and music. <!-- raw HTML omitted --></p>
+<p>Software engineer with experience designing geometric, security and data science tools utilizing several programming languages. Passionate about math, science, education, software development and security. <!-- raw HTML omitted --></p>
+<h2 id="education">Education</h2>
+<hr>
+<p>Bachelors of Science in Mathematics graduated cum laude May 2018
+Barrett Honors College at Arizona State University, Tempe, Arizona</p>
+<h2 id="professional-certificates">Professional Certificates</h2>
+<hr>
+<p>Security+ Certificate
+Earned July 14, 2021
+Expires July 14, 2024</p>
 <h2 id="work-experience">Work Experience</h2>
 <hr>
 <h3 id="sr-software-algorithms-engineer">Sr. Software Algorithms Engineer</h3>
@@ -55,7 +320,7 @@
 <p>in critical thinking, time management, patience, and organization</p>
 <h2 id="hobbies">Hobbies</h2>
 <hr>
-<p>Chess  • Piano • Guitar • Biking • Baking • Reading</p>
+<p>Chess  • Piano • Biking • Baking • Reading</p>
 <h2 id="external-links">External Links</h2>
 <hr>
 <h3 id="email">Email</h3>
@@ -66,5 +331,63 @@
 <p><a href="https://github.com/cnegrich">cnegrich</a></p>
 <h3 id="twitter">Twitter</h3>
 <p><a href="https://twitter.com/ChrisNegrich">ChrisNegrich</a></p>
-]]></content></item><item><title>Upcoming Posts</title><link>/posts/upcoming/</link><pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate><guid>/posts/upcoming/</guid><description>Plans for the future Currently, this site is very sparse. I am working on a variety of educational posts on basic computer science and programming. Each will come with an accompanying reveal.js slide show. Check back soon for more!</description><content type="html">&lt;h2 id="plans-for-the-future">Plans for the future&lt;/h2>
-&lt;p>Currently, this site is very sparse. I am working on a variety of educational posts on basic computer science and programming. Each will come with an accompanying reveal.js slide show. Check back soon for more!&lt;/p></content></item></channel></rss>
+]]></content></item><item><title>Creating a website with hugo</title><link>/posts/tutorials/hugo-basics/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>/posts/tutorials/hugo-basics/</guid><description>How to create a website using hugo How this site is built This site is built using hugo. Hugo is a framework for building static html from markdown pages, a theme, and a configuration file for the theme. Markdown is relatively easy to understand and much friendlier to users than html. The configuration file is just a text file containing settings and the theme is some prebuilt html and javascript.</description><content type="html"><![CDATA[<div class="embed reveal-slides">
+  <p align="center">
+    <iframe class="reveal-js" type="text/html" width="640" height="385"
+        src="http://christophernegrich.com/reveal-slides/slides/using-hugo.html" allowfullscreen frameborder="0">
+    </iframe>
+  </p>
+</div>
+<h2 id="how-to-create-a-website-using-hugo">How to create a website using hugo</h2>
+<hr>
+<h3 id="how-this-site-is-built">How this site is built</h3>
+<p>This site is built using <a href="https://gohugo.io/">hugo</a>. Hugo is a framework for building static html from <a href="https://www.markdownguide.org/">markdown</a> pages, a theme, and a configuration file for the theme. Markdown is relatively easy to understand and much friendlier to users than html. The configuration file is just a text file containing settings and the theme is some prebuilt html and javascript.</p>
+<h3 id="how-to-use-hugo">How to use Hugo</h3>
+<p>First, you will need to install hugo. A full guide is available <a href="https://gohugo.io/getting-started/installing">here</a>. But briefly, to install hugo just use a package manager for your operating system. On mac os, this is brew, on linux, apt or pacman or brew or snap or etc., on windows this means chocolatey or scoop. Each of these package managers is a command line utility. Essentially just open the terminal or powershell and type <code>[package manager] install hugo</code> for instance <code>brew install hugo</code>. You can also install by downloading the tarball, which is a compressed folder containing all of the files.</p>
+<p>Once you have installed hugo, you can get started. The first step is to create the basic site. Hugo provides a command to generate most of the basic files that you will need: <code>hugo new site [site_name]</code> for instance <code>hugo new site resume-site</code>. Now go choose a <a href="https://themes.gohugo.io/">theme</a>. Once you have your theme, turn your site into a git repository with <code>cd [site_name] &amp;&amp; git init</code>. Then add the theme as a submodule with <code>git submodule [theme git link]</code> for instance <code>git submodule https://themes.gohugo.io/hugo-theme-hello-friend-ng/ themes/hello-friend-ng</code>. Hello-friend-ng is the theme for this site. Be a little careful with this submodule command. I added <code> themes/hello-friend-ng</code> to the end of my command to change the name of the theme from hugo-theme-hello-friend-ng to hello-friend-ng. You may want to do this if the repository has a different name than the theme.  I only made slight modifications. Now, open your config.toml file in any file editor and add the line <code>theme = theme_name</code> or in my case <code>theme = hello-friend-ng</code>. You can make further edits as desired here. This file is just a long settings file and can contain as much or little information as you would like. Each theme will have some different options here, so read the documentation for your theme to figure out what you would like to change. My config.toml is available <a href="https://github.com/cnegrich/cnegrich.github.io/blob/master/config.toml">here</a>. There are a few settings that I will draw attention to before continuing. First, you should add a site title and author:</p>
+<pre><code>title        = &quot;Christopher Negrich&quot;
+[author]
+    name = &quot;Christopher Negrich&quot;
+</code></pre><p>Second, the base url is important:</p>
+<pre><code>baseurl      = &quot;/&quot;
+</code></pre><p>By default, this will be set to <code>&quot;localhost&quot;</code> which just means that the base url is your local system. If you change this to <code>&quot;/&quot;</code> immediately, you may experience some trouble in viewing your site on your computer. However, before committing the final site, you will need to change this base url to allow the site to be hosted at your desired domain. I made the change right away and did not experience any difficulties in doing so, however I have in the past.</p>
+<p>Now that the site has a theme and the basic files, you can view it. To view the site locally (on your machine), just run <code>hugo server -D</code>. This command will start a live server and host your site only on your machine. Since the sever is live, after each change you make to the files, the site will automatically update. This will let you view your site as you make it. The <code>-D</code> flag that I added will build files marked as drafts. Hugo lets you mark files as drafts. Files marked as drafts will not build unless you tell hugo to build them. This is convenient for letting some files be works in progress while you continue to add more content to your site. After running this command, hugo will give you an address to view your site, for example <code>localhost:1313</code>. Just paste that address into any internet browser to view the site. After navigating to that address, you should see your new homepage.</p>
+<p>Finally, to add content. So far, we have only made a homepage. Hugo has a command to help you with this. You can run <code>hugo new posts/my-first-post.md</code>. Which will generate a new post based on your Default.md file within the archetypes file. You can edit this default file to generate posts with some default content such as formatting if you would like to. After opening the newly generated my first-post.md, you will notice some code at the top:</p>
+<pre><code>---
+title: &quot;My First Post&quot;
+date: 2019-03-26T08:47:11+01:00
+draft: true
+---
+</code></pre><p>This is some more settings that hugo and your theme are aware of. You can modify this as needed. Changing draft to false will tell hugo to always build the page. When kept as true, the page will only be built when hugo is also building drafts. The date and time format can be changed based on your site&rsquo;s config.toml. Additional parameters can be added here as long as they are used by the theme or your site in some way. Aside from that, this is just a markdown file to type in. The markdown will be rendered into html by hugo when the site is built.</p>
+<p>You can view my content&rsquo;s src code <a href="https://github.com/cnegrich/cnegrich.github.io/tree/master/content/posts">here</a> for some examples.</p>
+<h3 id="advanced-integrating-revealjs">Advanced: Integrating RevealJS</h3>
+<p>There are some advanced features on this site. I modified the theme slightly to better fit my needs and integrate reveal js. Each of these posts has an embedded slide show at the top. To embed this slide show, I just add the following code into the markdown file:</p>
+<pre><code><div class="embed reveal-slides">
+  <p align="center">
+    <iframe class="reveal-js" type="text/html" width="640" height="385"
+        src="http://christophernegrich.com/reveal-slides/slides/using-hugo.html" allowfullscreen frameborder="0">
+    </iframe>
+  </p>
+</div>
+</code></pre><p>Markdown allows for html to be added, however the above is different. Although markdown allows for arbitrary html, hugo will not know how to handle it. To add the desired html, I made a hugo <a href="https://gohugo.io/templates/shortcode-templates/">shortcode</a>. This was actually easier than I expected. There are a bunch of hugo shortcodes available on install, but I added a custom one for the slide show into  the layouts/shortcodes directory within my site <a href="https://github.com/cnegrich/cnegrich.github.io/tree/master/layouts/shortcodes">files</a>. Here is the shortcode template in its entirety:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;embed reveal-slides&#34;</span>&gt;
+  &lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">align</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;center&#34;</span>&gt;
+    &lt;<span style="color:#f92672">iframe</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;reveal-js&#34;</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/html&#34;</span> <span style="color:#a6e22e">width</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;640&#34;</span> <span style="color:#a6e22e">height</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;385&#34;</span>
+        <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ index .Params 0 }}&#34;</span> <span style="color:#a6e22e">allowfullscreen</span> <span style="color:#a6e22e">frameborder</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;0&#34;</span>&gt;
+    &lt;/<span style="color:#f92672">iframe</span>&gt;
+  &lt;/<span style="color:#f92672">p</span>&gt;
+&lt;/<span style="color:#f92672">div</span>&gt;
+</code></pre></div><p>The shortcode is just the html that I wanted to add into the markdown file. The only difference is the <code>src=&quot;{{ index .Params 0 }}&quot;</code> which takes in the parameter from the markdown file. Now by calling the name of the shortcode, reveal, and passing in a parameter, a url to the src file, I can integrate reveal js into my posts.</p>
+<h2 id="external-links">External Links</h2>
+<hr>
+<h3 id="hugo-documentation">Hugo Documentation</h3>
+<p><a href="https://gohugo.io/documentation/">Hugo Docs</a></p>
+<h3 id="email">Email</h3>
+<p><a href="mailto:christopher.a.negrich@gmail.com">christopher.a.negrich@gmail.com</a></p>
+<h3 id="linkedin">LinkedIn</h3>
+<p><a href="https://www.linkedin.com/in/christopher-negrich">Christopher Negrich</a></p>
+<h3 id="github">Github</h3>
+<p><a href="https://github.com/cnegrich">cnegrich</a></p>
+<h3 id="twitter">Twitter</h3>
+<p><a href="https://twitter.com/ChrisNegrich">ChrisNegrich</a></p>
+]]></content></item></channel></rss>
